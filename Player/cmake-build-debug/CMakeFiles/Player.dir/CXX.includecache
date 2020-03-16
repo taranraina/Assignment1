@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/taranraina/CLionProjects/Player/Player.h
+Test.h
+/Users/taranraina/CLionProjects/Player/Test.h
+
+/Users/taranraina/CLionProjects/Player/Test.h
+array
+-
+vector
+-
+
+/Users/taranraina/CLionProjects/Player/playerDriver.cpp
+iostream
+-
+Player.h
+/Users/taranraina/CLionProjects/Player/Player.h
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Player.dir/Player.cpp.o CMakeFiles/Player.dir/Test.cpp.o CMakeFiles/Player.dir/playerDriver.cpp.o  -o Player 
